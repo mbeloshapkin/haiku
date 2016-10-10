@@ -1,4 +1,10 @@
-﻿using System;
+﻿// Copyright © 2016 Mikhail Beloshapkin
+// mbeloshapkin@gmail.com
+//
+// Licensed under the WTFPL 2.0 http://www.wtfpl.net/
+//
+
+using System;
 using System.Drawing;
 using System.Windows.Forms;
 
